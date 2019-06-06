@@ -5,3 +5,5 @@ y=67
 z="hii"      # used code
 
 print(type(z))
+
+# Run file on terminal and type to detect unused code------ vulture filename.py
