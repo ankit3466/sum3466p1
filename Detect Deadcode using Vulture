@@ -1,0 +1,7 @@
+#!/usr/bin/python36
+import time              # unused code
+x=56
+y=67
+z="hii"      # used code
+
+print(type(z))
