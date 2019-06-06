@@ -7,3 +7,4 @@ z="hii"      # used code
 print(type(z))
 
 # Run file on terminal and type to detect unused code------ vulture filename.py
+# output shows the unused code. In this example it shows the time module, x, y because they are not used in programe but defined. 
